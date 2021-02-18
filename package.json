@@ -1,7 +1,7 @@
 {
   "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "You have a golf ball that you want to move with keyboard keys.You are given a Start Button that begins the game. To move the ball, appropriately update state variable <code>ballPosition</code>. Ball should be positioned absolute.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -49,5 +49,13 @@
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0",
     "xml-js": "^1.6.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kranuj3122/Move-Ball-in-all-Directions---Golf-Part-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kranuj3122/Move-Ball-in-all-Directions---Golf-Part-1/issues"
+  },
+  "homepage": "https://github.com/kranuj3122/Move-Ball-in-all-Directions---Golf-Part-1#readme"
 }
